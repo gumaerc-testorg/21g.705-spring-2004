@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the information regarding activity 7 impresiones.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-705-oral-communication-in-spanish-spring-2004/53ab96ddfe2394c8bd8c36fccd21c391_MIT21G_705S04_act7impres.pdf
+file: /media/courses/21g-705-oral-communication-in-spanish-spring-2004/53ab96ddfe2394c8bd8c36fccd21c391_MIT21G_705S04_act7impres.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 21G.705_Act._7__Impresiones
 uid: 53ab96dd-fe23-94c8-bd8c-36fccd21c391
