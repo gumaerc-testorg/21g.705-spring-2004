@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1c5e63a2-88cf-8a36-7c13-6f2fe7c8c4b2
 resourcetype: Document
 title: 21G.705_Act._10_Valores
 uid: ab26807d-8adf-960c-61ad-1f5ca1fca1ab

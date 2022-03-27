@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1c5e63a2-88cf-8a36-7c13-6f2fe7c8c4b2
 resourcetype: Document
 title: 21G.705_Act._9_Castigos
 uid: 37d3ac73-7b0d-fdee-9eb4-fc5b0653660a

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1c5e63a2-88cf-8a36-7c13-6f2fe7c8c4b2
 resourcetype: Document
 title: 21G.705_Act._8_Derechos_humanos
 uid: fe143d31-b882-b5fb-ab3d-ffa0c012c432

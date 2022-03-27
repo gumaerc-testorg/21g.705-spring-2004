@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1c5e63a2-88cf-8a36-7c13-6f2fe7c8c4b2
 resourcetype: Document
 title: 21G.705_Act._4_El_estres
 uid: ac2bbe89-9b08-f50e-f00b-c341af99a3f6
