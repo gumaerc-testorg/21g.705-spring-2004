@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 1c5e63a2-88cf-8a36-7c13-6f2fe7c8c4b2
 ---
@@ -29,7 +33,7 @@ assignments
 {{< tdopen >}}
 Introduction  
   
-Activity 1 Filantrópica ([PDF]({{< baseurl >}}/resources/mit21g_705s04_act1filantro))
+Activity 1 Filantrópica ({{% resource_link b8cb2527-87af-4b5e-3420-6c63ef5a195c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 HS 1, Noticiero
@@ -53,7 +57,7 @@ BCH 1
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Activity 2 Teorías ([PDF]({{< baseurl >}}/resources/mit21g_705s04_act2teorias))
+Activity 2 Teorías ({{% resource_link 704faf78-1042-4dfb-d778-b0e083b3b86c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 HS 2, Noticiero
@@ -101,7 +105,7 @@ BCH 3
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Activity 3 Drogas ([PDF]({{< baseurl >}}/resources/mit21g_705s04_act3drogas))
+Activity 3 Drogas ({{% resource_link dedc703c-1052-397f-66c5-1179fe5e57f5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 HS 4, Noticiero
@@ -142,7 +146,7 @@ HS 5, Diario Ficticio
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Activity 4 El estrés ([PDF]({{< baseurl >}}/resources/mit21g_705s04_act4el_est))
+Activity 4 El estrés ({{% resource_link ac2bbe89-9b08-f50e-f00b-c341af99a3f6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 BCH 4, Diario Ficticio
@@ -179,7 +183,7 @@ HS 6, Diario Ficticio
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Activity 5 Testigos ([PDF]({{< baseurl >}}/resources/mit21g_705s04_act5testigos))
+Activity 5 Testigos ({{% resource_link 4c7fbf51-939f-16e8-e61c-8a6cf16dff37 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 BCH 6, Diario Ficticio
@@ -204,7 +208,7 @@ HS 7, Diario Ficticio
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Activity 6 Discriminación ([PDF]({{< baseurl >}}/resources/mit21g_705s04_act6discrim))
+Activity 6 Discriminación ({{% resource_link 944388f1-45df-ab8c-3418-8b585b96ed90 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 BCH 7, Diario Ficticio
@@ -241,7 +245,7 @@ BCH 8, El Proceso
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Activity 7 Impresiones ([PDF]({{< baseurl >}}/resources/mit21g_705s04_act7impres))
+Activity 7 Impresiones ({{% resource_link 53ab96dd-fe23-94c8-bd8c-36fccd21c391 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 HS 8, El Proceso
@@ -265,7 +269,7 @@ HS 9, BCH 10, El Proceso
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Activity 8 Derechos humanos ([PDF]({{< baseurl >}}/resources/mit21g_705s04_act8der_hum))
+Activity 8 Derechos humanos ({{% resource_link fe143d31-b882-b5fb-ab3d-ffa0c012c432 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 BCH 11, El Proceso
@@ -290,7 +294,7 @@ HS 10, El Proceso
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Activity 9 Castigos ([PDF]({{< baseurl >}}/resources/mit21g_705s04_act9cast))
+Activity 9 Castigos ({{% resource_link 37d3ac73-7b0d-fdee-9eb4-fc5b0653660a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 BCH 12, El Proceso
@@ -315,7 +319,7 @@ HS 11, Prepare Minidrama/Minicomedia
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Activity 10 Valores ([PDF]({{< baseurl >}}/resources/mit21g_705s04_act10valor))
+Activity 10 Valores ({{% resource_link ab26807d-8adf-960c-61ad-1f5ca1fca1ab "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 HS 12, Prepare Minidrama/Minicomedia
