@@ -5,6 +5,7 @@ file: /courses/21g-705-oral-communication-in-spanish-spring-2004/4c7fbf51939f16e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21G.705_Act._5_Testigos
 uid: 4c7fbf51-939f-16e8-e61c-8a6cf16dff37
 ---
 This resource contains the information regarding activity 5 testigos.
-
