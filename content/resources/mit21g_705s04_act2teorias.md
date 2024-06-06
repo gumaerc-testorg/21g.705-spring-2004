@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding activity 2 teorias.
 file: /courses/21g-705-oral-communication-in-spanish-spring-2004/704faf7810424dfbd778b0e083b3b86c_MIT21G_705S04_act2teorias.pdf
+file_size: 85945
 file_type: application/pdf
 learning_resource_types:
 - Assignments

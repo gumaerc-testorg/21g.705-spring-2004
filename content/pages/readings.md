@@ -15,4 +15,4 @@ Kooreman. _Breves cuentos hispánicos._ 3rd ed. Upper Saddle River, NJ: Prentice
 
 Benítez, and Smith. _Hablando seriamente: textos y pretextos para conversar y discutir._ 3rd ed. Upper Saddle River, NJ: Prentice-Hall, 2001. ISBN: 0130307572.
 
-Note that I will be showing one or more videos during some of the classes; these videos are not available in the {{% resource_link "f2190ca8-2720-461c-a1cf-b51b59b75175" "LLARC" %}}.
+Note that I will be showing one or more videos during some of the classes; these videos are not available in the [LLARC](http://llarc.mit.edu/).
