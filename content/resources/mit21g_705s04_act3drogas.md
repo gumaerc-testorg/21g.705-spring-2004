@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding activity 3 drogas.
-file: /courses/21g-705-oral-communication-in-spanish-spring-2004/dedc703c1052397f66c51179fe5e57f5_MIT21G_705S04_act3drogas.pdf
+file: /ol-ocw-studio-app/courses/21g-705-oral-communication-in-spanish-spring-2004/dedc703c1052397f66c51179fe5e57f5_MIT21G_705S04_act3drogas.pdf
 file_size: 59014
 file_type: application/pdf
 learning_resource_types:
