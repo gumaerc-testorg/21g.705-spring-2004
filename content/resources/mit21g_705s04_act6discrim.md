@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding activity 6 discriminacion.
-file: /ol-ocw-studio-app/courses/21g-705-oral-communication-in-spanish-spring-2004/944388f145dfab8c34188b585b96ed90_MIT21G_705S04_act6discrim.pdf
+file: /courses/21g-705-oral-communication-in-spanish-spring-2004/944388f145dfab8c34188b585b96ed90_MIT21G_705S04_act6discrim.pdf
 file_size: 118011
 file_type: application/pdf
 learning_resource_types:
